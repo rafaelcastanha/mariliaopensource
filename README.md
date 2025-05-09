@@ -1,4 +1,4 @@
-# Oficina de Introdução a manipuação de dados em linguagem R - Marília Open Source
+# Oficina de Introdução a manipuação de dados em linguagem R - Open Source Marília
 
 Material utilizando para a oficina de introdução a manipulação de dados em linguagem R.
 
