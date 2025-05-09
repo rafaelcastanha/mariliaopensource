@@ -59,7 +59,7 @@ dados[dados$NºEmpregados>200000, ] #Ex.:Empresas com mais de 200k empregados
 
 #Ex.: Empresas do setor Energy e com mais de 200k empregados
 
-dados[dados$Setor == "Energy" & dados$Nº.Empregados > 200000, ] 
+dados[dados$Setor == "Energy" & dados$NºEmpregados > 200000, ] 
 
 #dadosViz
 
@@ -89,7 +89,7 @@ barplot(tabela2, beside = TRUE,
 
 #Verificando a classe dos dados
 
-class(dados$Nº.Empregados)
+class(dados$NºEmpregados)
 class(dados$Receita_milhoes)
 class(dados$Lucros_milhoes)
 class(dados$Total_ativos)
