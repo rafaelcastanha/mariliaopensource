@@ -1,0 +1,145 @@
+Empresa	Continente	Setor	NºEmpregados	Receita milhoes	Lucros milhoes	Total ativos milhoes
+UnitedHealth Group	America_do_Norte	Health Care	440000	371622	22381	273720
+CVS Health	América do Norte	Health Care	259500	357776	8344	249728
+McKesson	América do Norte	Health Care	48000	308951	3002	67443
+Cencora	América do Norte	Health Care	44000	262173	1745	62558
+Cardinal Health	América do Norte	Health Care	47520	205012	261	43417
+Cigna	América do Norte	Health Care	71413	195265	5164	152761
+Elevance Health	América do Norte	Health Care	104900	171340	5987	108928
+Centene Corporation	América do Norte	Health Care	67700	153999	2702	84641
+Humana	América do Norte	Health Care	67600	106374	2489	47065
+Sinopharm	Ásia	Health Care	202426	96072	1149	82842
+Johnson & Johnson	América do Norte	Health Care	131900	95195	35153	167558
+Roche Group	Europa	Health Care	103605	67269	12797	107533
+HCA Healthcare	América do Norte	Health Care	265000	64968	5242	56211
+Merck	América do Norte	Health Care	71000	60115	365	106675
+Pfizer	América do Norte	Health Care	88000	58496	2119	226501
+Abbvie	América do Norte	Health Care	50000	54318	4863	134711
+Novartis	Europa	Health Care	76057	54088	14850	99945
+Bayer	Europa	Health Care	99723	51498	-3179	128406
+Phoenix Pharma	Europa	Health Care	41276	50934	234	15538
+Sanofi	Europa	Health Care	86088	50208	5837	139677
+AstraZeneca	Europa	Health Care	89900	45811	5955	101119
+Bristol-Myers Squibb	América do Norte	Health Care	34100	45006	8025	95159
+Thermo Fisher Scientific	América do Norte	Health Care	114000	42857	5995	98726
+Abbott Laboratories	América do Norte	Health Care	114000	40109	5723	73214
+GSK	Europa	Health Care	70212	37691	6124	75203
+Shanghai Pharmaceuticals Holding	Ásia	Health Care	48164	36768	532	29864
+Guangzhou Pharmaceutical Holdings	Ásia	Health Care	35391	36309	324	11794
+Eli Lilly	América do Norte	Health Care	43000	34124	5240	64006
+Molina Healthcare	América do Norte	Health Care	18000	34072	1091	14892
+Novo Nordisk	Europa	Health Care	63845	33703	12143	46607
+Alphabet	América do Norte	Technology	182502	307394	73795	402392
+Microsoft	América do Norte	Technology	221000	211915	72361	411976
+Samsung Electronics	Ásia	Technology	267860	198256	11082	351937
+Hon Hai Precision Industry	Ásia	Technology	621393	197876	4563	128550
+Meta Platforms	América do Norte	Technology	67317	134902	39098	229623
+Huawei Investment & Holding	Ásia	Technology	207000	99470	12274	178027
+Sony	Ásia	Technology	113000	90091	6716	225549
+Dell Technologies	América do Norte	Technology	120000	88425	3211	82089
+Tencent Holdings	Ásia	Technology	105417	86028	16275	222216
+Taiwan Semiconductor Manufacturing	Ásia	Technology	76478	69415	27350	180508
+Hitachi	Ásia	Technology	268655	67313	4082	80818
+LG Electronics	Ásia	Technology	74000	64490	546	46503
+Accenture	Europa	Technology	732819	64111	6872	51245
+IBM	América do Norte	Technology	296600	61860	7502	135241
+Nvidia	América do Norte	Technology	29600	60922	29760	65728
+Panasonic Holdings	Ásia	Technology	228420	58787	3072	62235
+Cisco	América do Norte	Technology	84900	56998	12613	101852
+Lenovo Group	Ásia	Technology	69500	56863	1011	38751
+Intel	América do Norte	Technology	124800	54228	1689	191572
+HP	América do Norte	Technology	58000	53718	3263	37004
+Oracle	América do Norte	Technology	164000	49954	8503	134384
+Pegatron	Ásia	Technology	147360	40356	505	18176
+Xiaomi	Ásia	Technology	33627	38276	2469	45683
+Uber Technologies	América do Norte	Technology	30400	37281	1887	38699
+Qualcomm	América do Norte	Technology	50000	35820	7232	51040
+Broadcom	América do Norte	Technology	20000	35819	14082	72861
+China Electronics	Ásia	Technology	183469	35390	27	61089
+Quanta Computer	Ásia	Technology	56708	34860	1274	22518
+Salesforce	América do Norte	Technology	72682	34857	4136	99823
+Jabil	América do Norte	Technology	236000	34702	818	19424
+SAP	Europa	Technology	107602	34542	6637	75475
+Luxshare Precision Industry	Ásia	Technology	232585	32758	1547	22823
+State Grid	Ásia	Energy	1361423	545947	9204	781126
+Saudi Aramco	Oriente Médio	Energy	73311	494890	120699	660819
+Sinopec Group	Ásia	Energy	513434	429699	9339	382688
+China National Petroleum	Ásia	Energy	1026301	421713	21294	630562
+Exxon Mobil	América do Norte	Energy	61	344582	36010	376317
+Shell	Europa	Energy	103000	323183	19359	406270
+TotalEnergies	Europa	Energy	102579	218945	21384	283654
+Glencore	Europa	Energy	83426	217829	4280	123869
+BP	Europa	Energy	79	213032	15239	280294
+Chevron	América do Norte	Energy	45	200949	21369	261632
+Electricite de France	Europa	Energy	171862	151040	10827	402929
+Marathon Petroleum	América do Norte	Energy	18	150307	9681	85987
+Phillips 66	América do Norte	Energy	14000	149890	7015	75501
+China National Offshore Oil	Ásia	Energy	82	141731	14559	225842
+Valero Energy	América do Norte	Energy	9897	139001	8835	63056
+Shandong Energy Group	Ásia	Energy	214409	122383	829	141176
+China Southern Power Grid	Ásia	Energy	268471	118813	2342	173039
+Uniper	Europa	Energy	6863	116662	6819	60703
+China Energy Investment	Ásia	Energy	309037	112048	6339	294883
+Reliance Industries	Ásia	Energy	347000	108877	8412	210698
+Rosneft Oil	Europa	Energy	323	107543	14870	209569
+Equinor	Europa	Energy	23449	107174	11885	143580
+Enel	Europa	Energy	61055	103311	3716	215621
+ENI	Europa	Energy	33142	102501	5157	157506
+Petrobras	América Latina	Energy	46	102409	24884	217067
+SK	Ásia	Energy	114	101968	-594	159770
+E.ON	Europa	Energy	72242	101280	558	125365
+Gazprom	Europa	Energy	492	100252	7383	320303
+Pemex	América Latina	Energy	128616	96978	457	136067
+Indian Oil	Ásia	Energy	31942	94273	5042	57878
+PTT	Ásia	Energy	30772	90418	3221	100741
+Engie	Europa	Energy	97297	89257	2387	214976
+Orlen	Europa	Energy	66554	88717	4921	67205
+ENEOS Holdings	Ásia	Energy	50269	79020	1993	67031
+Energy Transfer	América do Norte	Energy	13786	78586	3935	113698
+Pertamina	Ásia	Energy	40415	75787	4441	91123
+Petronas	Ásia	Energy	54105	75409	16320	168475
+Lukoil	Europa	Energy	107596	75012	13551	95935
+Shaanxi Coal & Chemical Industry	Ásia	Energy	140142	74776	1113	100857
+Oil & Natural Gas	Ásia	Energy	36549	71466	5947	85215
+Koc Holding	Ásia	Energy	119306	67482	3037	96811
+Korea Electric Power	Ásia	Energy	48696	66977	3692	185048
+Jinneng Holding Group	Ásia	Energy	439051	63639	993	159091
+ConocoPhillips	América do Norte	Energy	9900	58574	10957	95924
+China Huaneng Group	Ásia	Energy	124623	57890	1632	219905
+Repsol	Europa	Energy	23943	56980	3424	68072
+State Power Investment	Ásia	Energy	127514	54484	1615	247045
+Bharat Petroleum	Ásia	Energy	8511	54413	3245	24287
+Rio Tinto Group	Oceania	Energy	57174	54041	10058	103549
+BHP Group	Oceania	Energy	42319	53817	12921	101296
+Iberdrola	Europa	Energy	41448	53334	5192	165709
+Idemitsu Kosan	Ásia	Energy	16571	53042	1581	33145
+Shaanxi Yanchang Petroleum (Group)	Ásia	Energy	130427	51525	997	68398
+Enterprise Products Partners	América do Norte	Energy	7500	49715	5532	70982
+Veolia Environnement	Europa	Energy	218288	49027	1013	80148
+Plains GP Holdings	América do Norte	Energy	4200	48712	198	28597
+Energie Baden-Wurttemberg	Europa	Energy	26943	48032	1662	71481
+Tokyo Electric Power	Ásia	Energy	38183	47868	1853	96518
+World Kinect	América do Norte	Energy	5289	47710	52	7375
+HD Hyundai	Ásia	Energy	34097	46959	202	52479
+China Huadian	Ásia	Energy	93459	45534	1909	154660
+Raizen	América Latina	Energy	45417	44694	105	25558
+OMV Group	Europa	Energy	20592	42661	1677	55956
+Vale	América Latina	Energy	66807	41784	7983	94186
+China National Nuclear	Ásia	Energy	182	39632	1297	188569
+Cenovus Energy	América do Norte	Energy	6925	38689	3045	40894
+PBF Energy	América do Norte	Energy	3776	38324	2140	14387
+Suncor Energy	América do Norte	Energy	14906	37609	6147	67156
+GS Caltex	Ásia	Energy	3268	37216	882	18775
+China Datang	Ásia	Energy	87991	36266	332	122382
+CFE	América Latina	Energy	92054	36077	5481	137339
+China National Coal Group	Ásia	Energy	144531	35364	2154	73994
+Korea Gas	Ásia	Energy	4163	34114	-582	44197
+CPC	Ásia	Energy	17142	33903	-656	34350
+Tongwei Group	Ásia	Energy	58329	33731	593	25094
+Shanxi Coking Coal Group	Ásia	Energy	214937	33533	1252	73316
+Siemens Energy	Europa	Energy	94000	33184	4832	50695
+Schlumberger	América do Norte	Energy	111000	33135	4203	47957
+Ecopetrol	América Latina	Energy	19657	33126	4872	72404
+Centrica	Europa	Energy	21014	32882	4883	27231
+Vibra Energia	América Latina	Energy	3526	32634	954	8961
+Enbridge	América do Norte	Energy	12450	32349	4588	136769
